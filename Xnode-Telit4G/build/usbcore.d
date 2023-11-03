@@ -1,0 +1,17 @@
+..\build\usbcore.o: ..\lib\USB\usbcore.c
+..\build\usbcore.o: ..\lib\lpc43xx\lpc43xx.H
+..\build\usbcore.o: C:\Keil_v474\ARM\CMSIS\Include\core_cm4.h
+..\build\usbcore.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\stdint.h
+..\build\usbcore.o: C:\Keil_v474\ARM\CMSIS\Include\core_cmInstr.h
+..\build\usbcore.o: C:\Keil_v474\ARM\CMSIS\Include\core_cmFunc.h
+..\build\usbcore.o: C:\Keil_v474\ARM\CMSIS\Include\core_cm4_simd.h
+..\build\usbcore.o: ..\lib\lpc43xx\system_LPC43xx.h
+..\build\usbcore.o: ..\lib\lpc43xx\lpc_types.h
+..\build\usbcore.o: ..\lib\USB\usb.h
+..\build\usbcore.o: ..\lib\USB\usbcfg.h
+..\build\usbcore.o: ..\lib\USB\usbhw.h
+..\build\usbcore.o: ..\lib\USB\usbcore.h
+..\build\usbcore.o: ..\lib\USB\usbdesc.h
+..\build\usbcore.o: ..\lib\USB\usbuser.h
+..\build\usbcore.o: ..\lib\USB\cdc.h
+..\build\usbcore.o: ..\lib\USB\cdcuser.h

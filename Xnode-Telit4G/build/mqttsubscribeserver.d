@@ -1,0 +1,11 @@
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTSubscribeServer.c
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTPacket.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTConnect.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTPublish.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTSubscribe.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTUnsubscribe.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTFormat.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\StackTrace.h
+..\build\mqttsubscribeserver.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\stdio.h
+..\build\mqttsubscribeserver.o: ..\lib\paho\MQTTPacket.h
+..\build\mqttsubscribeserver.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\string.h

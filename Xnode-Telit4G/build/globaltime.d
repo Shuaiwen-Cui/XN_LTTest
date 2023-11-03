@@ -1,0 +1,11 @@
+..\build\globaltime.o: ..\lib\Time64\GlobalTime.c
+..\build\globaltime.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\stdio.h
+..\build\globaltime.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\stdlib.h
+..\build\globaltime.o: ..\lib\Time64\SysTime.h
+..\build\globaltime.o: ..\lib\Time64\timeX.h
+..\build\globaltime.o: C:\Keil_v474\ARM\ARMCC\bin\..\include\stdint.h
+..\build\globaltime.o: ..\lib\lpc43xx\lpc_types.h
+..\build\globaltime.o: ..\lib\system\globalconstants.h
+..\build\globaltime.o: ..\lib\Time64\LocalTime.h
+..\build\globaltime.o: ..\lib\Time64\GlobalTime.h
+..\build\globaltime.o: ..\lib\lpc43xx\debug_frmwrk.h
