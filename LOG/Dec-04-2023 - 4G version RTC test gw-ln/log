@@ -1,0 +1,304 @@
+ to send data back
+- sensor node initialized.
+- node inactive for too long; resetting...
+Reading NAND Flash...
+NAND Flash read success
+istosend = 1
+CURRENT TIME: 00:07:11
+ALARM 1     : 00:07:58
+ALARM 2     : 01:00:00
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 7
+RADIO_CHANNEL = 25
+RADIO_POWER = 5
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 7
+CHANNEL = 25
+POWER = 5
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 1
+Clock: 00:07:12(24h),,  1/ 1/20 0
+epoch = 946685232
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946685278
+- Switch on- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 00:07:19
+ALARM 1     : 00:07:58
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 7
+RADIO_CHANNEL = 25
+RADIO_POWER = 5
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 7
+CHANNEL = 25
+POWER = 5
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 1
+Clock: 00:07:21(24h),,  1/ 1/20 0
+epoch = 946685241
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946685278
+- Switch on- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 00:07:28
+ALARM 1     : 00:07:58
+ALARM 2     : 01:00:00
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 7
+RADIO_CHANNEL = 25
+RADIO_POWER = 5
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 7
+CHANNEL = 25
+POWER = 5
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 1
+Clock: 00:07:29(24h),,  1/ 1/20 0
+epoch = 946685249
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946685278
+- Switch on- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 00:07:36
+ALARM 1     : 00:07:58
+ALARM 2     : 01:00:00
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 7
+RADIO_CHANNEL = 25
+RADIO_POWER = 5
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 7
+CHANNEL = 25
+POWER = 5
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 1
+Clock: 00:07:37(24h),,  1/ 1/20 0
+epoch = 946685257
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946685278
+- Switch on- sensor node initialized.

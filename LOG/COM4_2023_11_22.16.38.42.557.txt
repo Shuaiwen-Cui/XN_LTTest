@@ -1,0 +1,21 @@
+- gateway node initialized at 2000-00-00 00:00:00
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Manually-triggered sensing
+- '4'  Event-triggered sensing
+- '7'  Retrieve sensor data
+- '6'  Check sensor status
+- '7'  Reset sensors
+- '8'  Change configuration
+- Xnode> 6
+
+- waking up 1 nodes on radio channel 26:
+- 005
+- wait 1 minute(s)...
+- woke up 1 nodes.
+
+- checking status of 1 sensor nodes...
+- node 005: battery charge   3% (3.52V), charging current 0.00mA
+- finished status check.

@@ -1,0 +1,125 @@
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 50
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 1
+nodes = 51    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 50
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 1
+NODEIDS = 51
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 1234567890
+Site = 167.71.254.147
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = e-ideas
+SYNCH APP
+- gateway node initialized.
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Event-triggered sensing
+- '4'  Retrieve sensor data
+- '5'  Check sensor status
+- '6'  Reset sensors
+- '7'  Change configuration
+- '8'  FRA tasks
+- Xnode> 8
+
+- Choose action:
+- '1'  Check status of all sensor nodes
+- '2'  Synchronize RTC with network time
+- '3'  Collect and upload data to FTF server
+- '4'  Download new configuration from the FTP site
+- '5'  Return
+- Xnode> Task number selected: 2
+Checking basic AT command...
+
+
+
+
+
+
+
+- sending time to 1 sensor nodes... is4Gworking = 0
+
+- Checking node 051: Attempt #0
+- timed out, try once more
+
+- Checking node 051: Attempt #1
+- timed out, try once more
+
+- Checking node 051: Attempt #2
+- timed out, try once more
+
+- Checking node 051: Attempt #3
+- timed out, try once more
+
+- Checking node 051: Attempt #4
+- timed out, try once more
+
+- Checking node 051: Attempt #5
+- timed out, try once more
+
+- Checking node 051: Attempt #6
+- timed out, try once more
+
+- Checking node 051: Attempt #7
+- timed out, try once more
+
+- Checking node 051: Attempt #8
+- timed out, try once more
+
+- Checking node 051: Attempt #9
+- timed out, try once more
+
+- Checking node 051: Attempt #10
+- timed out, try once more
+
+

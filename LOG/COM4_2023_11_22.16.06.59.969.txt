@@ -1,0 +1,546 @@
+NAND Flash read success
+LOCAL_ADDR = 50
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 1
+nodes = 51    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 50
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 1
+NODEIDS = 51
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+- gateway node initialized.
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+SYNCH APP
+Site = 8.214.19.225
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Event-triggered sensing
+- '4'  Retrieve sensor data
+- '5'  Check sensor status
+- '6'  Reset sensors
+- '7'  Change configuration
+- '8'  FRA tasks
+- Xnode> 8
+
+- Choose action:
+- '1'  Check status of all sensor nodes
+- '2'  Synchronize RTC with network time
+- '3'  Collect and upload data to FTF server
+- '4'  Download new configuration from the FTP site
+- '5'  Return
+- Xnode> Task number selected: 2
+Checking basic AT command...
+
+
+AT
+OK
+Done
+Cancelling command echo...
+ATE0
+OK
+Done
+Checking and update time...
+
++CCLK: "23/11/22,16:07:32+32
+Getting phone number: 84643167
+Activating hardware flow control..."
+
+OK
+Done
+AT+CMEE=2
+
+
+OK
+AT+CGREG?
+
+
+OK
+AT+CGDCONT?
+
+
++CGREG: 0,1
++CGDCONT: 1,"IPV4V6","sunsurf","",0,0,0,0
++CGDCONT: 2,"IPV4V6","","",0,0,0,0
++CGDCONT: 3,"IPV4V6","ims","",0,0,0,0
++CGDCONT: 4,"IPV4V6","SOS","",0,0,0,1
+
+OK
+AT+CGATT?
+
+
++CGATT: 1
+
+OK
+AT+CGACT?
+
+
++CGACT: 1,1
++CGACT: 2,0
++CGACT: 3,1
++CGACT: 4,0
+
+OK
+AT+CGCONTRDP=1
+
+
++CGCONTRDP: 1,5,sunsurf,"10.218.130.105","255.255.255.252","36.1.116.0.96.16.90.242.23.153.227.122.81.182.245.29", "254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1","43.245.107.5","43.245.107.38"
+
+OK
+AT#SGACT=?
+
+
+#SGACT: (1-5),(0,1)
+
+OK
+AT#CGPADDR=1
+
+
+#CGPADDR: 1,"10.218.130.105"
+
+
+OK
+AT+CGATT=1
+
+
+OK
+AT+CGCONTRDP=1
+
+
++CGCONTRDP: 1,5,sunsurf,"10.218.130.105","255.255.255.252","36.1.116.0.96.16.90.242.23.153.227.122.81.182.245.29", "254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1","43.245.107.5","43.245.107.38"
+
+OK
+Configure Internet connection...
+
+OK
+Done
+Configure socket...
+
+OK
+Done
+Configure socket extended...
+
+OK
+Done
+Activate socket...
+
+#SGACT: 
+Done
+Checking basic AT command...10.218.130.105,3
+OK
+Done
+Connecting to TCP server...
+
+OK
+Done
+Starting to send 72 bytes...
+
+
+> 
+Done
+Waiting to finish...
+
+OK
+Done
+Listening to incoming TCP messages (expecting 4 bytes)...
+CONNACK Detected! Publishing data
+topicString.cstring = SynchData
+Starting to send 30 bytes...
+
+
+> 
+Done
+Waiting to finish...
+
+OK
+Done
+Waiting to finish...
+
+
+
+- sending time to 1 sensor nodes... is4Gworking = 0
+
+- Checking node 051: Attempt #0
+- timed out, try once more
+
+- Checking node 051: Attempt #1
+- timed out, try once more
+
+- Checking node 051: Attempt #2
+- timed out, try once more
+
+- Checking node 051: Attempt #3
+- timed out, try once more
+
+- Checking node 051: Attempt #4
+- timed out, try once more
+
+- Checking node 051: Attempt #5
+- timed out, try once more
+
+- Checking node 051: Attempt #6
+- timed out, try once more
+
+- Checking node 051: Attempt #7
+- timed out, try once more
+
+- Checking node 051: Attempt #8
+- timed out, try once more
+
+- Checking node 051: Attempt #9
+- timed out, try once more
+
+- Checking node 051: Attempt #10
+- timed out, try once more
+
+- Checking node 051: Attempt #11
+- timed out, try once more
+
+- Checking node 051: Attempt #12
+- timed out, try once more
+
+- Checking node 051: Attempt #13
+- timed out, try once more
+
+- Checking node 051: Attempt #14
+- timed out, try once more
+
+- Checking node 051: Attempt #15
+- timed out, try once more
+
+- Checking node 051: Attempt #16
+- timed out, try once more
+
+- Checking node 051: Attempt #17
+- timed out, try once more
+
+- Checking node 051: Attempt #18
+- timed out, try once more
+
+- Checking node 051: Attempt #19
+- timed out, try once more
+
+- Checking node 051: Attempt #20
+- timed out, try once more
+
+- Checking node 051: Attempt #21
+- timed out, try once more
+
+- Checking node 051: Attempt #22
+- timed out, try once more
+
+- Checking node 051: Attempt #23
+- timed out, try once more
+
+- Checking node 051: Attempt #24
+- timed out, try once more
+
+- Checking node 051: Attempt #25
+- timed out, try once more
+
+- Checking node 051: Attempt #26
+- timed out, try once more
+
+- Checking node 051: Attempt #27
+- timed out, try once more
+
+- Checking node 051: Attempt #28
+- timed out, try once more
+
+- Checking node 051: Attempt #29
+- timed out, try once more
+
+- Checking node 051: Attempt #30
+- timed out, try once more
+
+- Checking node 051: Attempt #31
+- timed out, try once more
+
+- Checking node 051: Attempt #32
+- timed out, try once more
+
+- Checking node 051: Attempt #33
+- timed out, try once more
+
+- Checking node 051: Attempt #34
+- timed out, try once more
+
+- Checking node 051: Attempt #35
+- timed out, try once more
+
+- Checking node 051: Attempt #36
+- timed out, try once more
+
+- Checking node 051: Attempt #37
+- timed out, try once more
+
+- Checking node 051: Attempt #38
+- timed out, try once more
+
+- Checking node 051: Attempt #39
+- timed out, try once more
+
+- Checking node 051: Attempt #40
+- timed out, try once more
+
+- Checking node 051: Attempt #41
+- timed out, try once more
+
+- Checking node 051: Attempt #42
+- timed out, try once more
+
+- Checking node 051: Attempt #43
+- timed out, try once more
+
+- Checking node 051: Attempt #44
+- timed out, try once more
+
+- Checking node 051: Attempt #45
+- timed out, try once more
+
+- Checking node 051: Attempt #46
+- timed out, try once more
+
+- Checking node 051: Attempt #47
+- timed out, try once more
+
+- Checking node 051: Attempt #48
+- timed out, try once more
+
+- Checking node 051: Attempt #49
+- timed out, try once more
+
+- Checking node 051: Attempt #50
+- timed out, try once more
+
+- Checking node 051: Attempt #51
+- timed out, try once more
+
+- Checking node 051: Attempt #52
+- timed out, try once more
+
+- Checking node 051: Attempt #53
+- timed out, try once more
+
+- Checking node 051: Attempt #54
+- timed out, try once more
+
+- Checking node 051: Attempt #55
+- timed out, try once more
+
+- Checking node 051: Attempt #56
+- timed out, try once more
+
+- Checking node 051: Attempt #57
+- timed out, try once more
+
+- Checking node 051: Attempt #58
+- timed out, try once more
+
+- Checking node 051: Attempt #59
+- timed out, try once more
+
+- Checking node 051: Attempt #60
+- timed out, try once more
+
+- Checking node 051: Attempt #61
+- timed out, try once more
+
+- Checking node 051: Attempt #62
+- timed out, try once more
+
+- Checking node 051: Attempt #63
+- timed out, try once more
+
+- Checking node 051: Attempt #64
+- timed out, try once more
+
+- Checking node 051: Attempt #65
+- timed out, try once more
+
+- Checking node 051: Attempt #66
+- timed out, try once more
+
+- Checking node 051: Attempt #67
+- timed out, try once more
+
+- Checking node 051: Attempt #68
+- timed out, try once more
+
+- Checking node 051: Attempt #69
+- timed out, try once more
+
+- Checking node 051: Attempt #70
+- timed out, try once more
+
+- Checking node 051: Attempt #71
+- timed out, try once more
+
+- Checking node 051: Attempt #72
+- timed out, try once more
+
+- Checking node 051: Attempt #73
+- timed out, try once more
+
+- Checking node 051: Attempt #74
+- timed out, try once more
+
+- Checking node 051: Attempt #75
+- timed out, try once more
+
+- Checking node 051: Attempt #76
+- timed out, try once more
+
+- Checking node 051: Attempt #77
+- timed out, try once more
+
+- Checking node 051: Attempt #78
+- timed out, try once more
+
+- Checking node 051: Attempt #79
+- timed out, try once more
+
+- Checking node 051: Attempt #80
+- timed out, try once more
+
+- Checking node 051: Attempt #81
+- timed out, try once more
+
+- Checking node 051: Attempt #82
+- timed out, try once more
+
+- Checking node 051: Attempt #83
+- timed out, try once more
+
+- Checking node 051: Attempt #84
+- timed out, try once more
+
+- Checking node 051: Attempt #85
+- timed out, try once more
+
+- Checking node 051: Attempt #86
+- timed out, try once more
+
+- Checking node 051: Attempt #87
+- timed out, try once more
+
+- Checking node 051: Attempt #88
+- timed out, try once more
+
+- Checking node 051: Attempt #89
+- timed out, try once more
+
+- Checking node 051: Attempt #90
+- timed out, try once more
+
+- Checking node 051: Attempt #91
+- timed out, try once more
+
+- Checking node 051: Attempt #92
+- timed out, try once more
+
+- Checking node 051: Attempt #93
+- timed out, try once more
+
+- Checking node 051: Attempt #94
+- timed out, try once more
+
+- Checking node 051: Attempt #95
+- timed out, try once more
+
+- Checking node 051: Attempt #96
+- timed out, try once more
+
+- Checking node 051: Attempt #97
+- timed out, try once more
+
+- Checking node 051: Attempt #98
+- timed out, try once more
+
+- Checking node 051: Attempt #99
+- timed out, try once more
+
+- Checking node 051: Attempt #100
+- timed out, try once more
+
+- Checking node 051: Attempt #101
+- timed out, try once more
+
+- Checking node 051: Attempt #102
+- timed out, try once more
+
+- Checking node 051: Attempt #103
+- timed out, try once more
+
+- Checking node 051: Attempt #104
+- timed out, try once more
+
+- Checking node 051: Attempt #105
+- timed out, try once more
+
+- Checking node 051: Attempt #106
+- timed out, try once more
+
+- Checking node 051: Attempt #107
+- timed out, try once more
+
+- Checking node 051: Attempt #108
+- timed out, try once more
+
+- Checking node 051: Attempt #109
+- timed out, try once more
+
+- Checking node 051: Attempt #110
+- timed out, try once more
+
+- Checking node 051: Attempt #111
+- timed out, try once more
+
+- Checking node 051: Attempt #112
+- timed out, try once more
+
+- Checking node 051: Attempt #113
+- timed out, try once more
+
+- Checking node 051: Attempt #114
+- timed out, try once more
+
+- Checking node 051: Attempt #115
