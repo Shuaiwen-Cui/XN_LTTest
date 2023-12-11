@@ -8,7 +8,7 @@
 #include "lz4.h"
 #include <inttypes.h>
 
-#define _DEBUG_               0
+#define _DEBUG_               0 // 0 for non debugging mode
 #if _DEBUG_
 #define PRINTF(...)           lpc_printf(__VA_ARGS__)
 #else

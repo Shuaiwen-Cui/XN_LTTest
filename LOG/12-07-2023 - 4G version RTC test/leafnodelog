@@ -1,0 +1,536 @@
+
+GenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+CURRENT TIME: 09:52:11
+ALARM 1     : 56:20:160
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:17(24h),,  1/ 1/20 0
+epoch = 946720337
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720800
+- Switch onGenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 09:52:24
+ALARM 1     : 09:52:58
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:26(24h),,  1/ 1/20 0
+epoch = 946720346
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720378
+- Switch onGenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 09:52:33
+ALARM 1     : 09:52:58
+ALARM 2     : 10:00:00
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:34(24h),,  1/ 1/20 0
+epoch = 946720354
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720378
+- Switch onGenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 09:52:41
+ALARM 1     : 09:52:58
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:42(24h),,  1/ 1/20 0
+epoch = 946720362
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720378
+- Switch onGenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 09:52:49
+ALARM 1     : 09:53:58
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:51(24h),,  1/ 1/20 0
+epoch = 946720371
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720438
+- Switch onGenericComm: init
+GenericComm: register app 0
+ReliableComm: SendSMsg_init
+GenericComm: register app 2
+GenericComm: register app 3
+GenericComm: register app 4
+ReliableComm: SendLData_SLDIAlloc
+ReliableComm: SendLData_SLDIReq
+ReliableComm: SendLData_init
+GenericComm: register app 1
+ReliableComm: init
+ReliableComm: register app 0
+GenericComm: register app 7
+- sensor node initialized.
+- node inactive for too long; resetting...
+CURRENT TIME: 09:52:58
+ALARM 1     : 09:53:58
+ALARM 2     : 10:00:00
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.3
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 9.0.0
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+-------------------------------------------------------------------------------
+
+Reading NAND Flash...
+NAND Flash read success
+LOCAL_ADDR = 5
+RADIO_CHANNEL = 26
+RADIO_POWER = 0
+task1T = 2
+task2T = 1
+task3T = 12
+adxl_range = 8
+thres_actOriginal = 80
+time_act = 2
+thres_iactOriginal = 40
+time_iact = 500
+FIFO_numb = 61
+time = 60
+rate = 100
+channels = 3
+ncnt = 3
+nodes = 5    6    7    
+block_limit = 500
+sense_lowerlimit = 5
+sense_upperlimit = 300
+thres_act = 20
+thres_iact = 10
+NODEID = 5
+CHANNEL = 26
+POWER = 0
+TASK1_TIME = 2
+TASK2_TIME = 1
+TASK3_TIME = 12
+RANGE = 8
+adxl_rate is 4
+THRESHOLDACT = 20
+TIMEACT = 2
+THRESHOLDINACT = 10
+TIMEINACT = 500
+FIFONUM = 61
+SAMPLINGTIME = 60
+SAMPLINGRATE = 100
+NUMCHANNELS = 3
+NUMNODES = 3
+NODEIDS = 5,6,7
+BLOCKLIMIT = 500
+SENSELOWERLIMIT = 5
+SENSEUPPERLIMIT = 300
+PHONENUMBER = 84643167
+Site = 8.214.19.225
+USERNAME = 1234567890@bell.ca
+PASSWORD = 12345678
+APN = sunsurf
+Reading NAND Flash...
+NAND Flash read success
+istosend = 0
+NAND Flash write success
+Clock: 09:52:59(24h),,  1/ 1/20 0
+epoch = 946720379
+Reading NAND Flash...
+NAND Flash read success
+Saved Wakeup time: 946720438
+- Switch on

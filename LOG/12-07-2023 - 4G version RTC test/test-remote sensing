@@ -1,0 +1,100 @@
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.6
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 10.2.1
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+- * >>> Xnode PlayGround <<<
+-------------------------------------------------------------------------------
+
+[Progress Report] SDCard_Init() executed successfully.
+[Progress Report] Util_Init() executed successfully.
+[Progress Report] Trig_Init() executed successfully.
+[Progress Report] XnodeConfig_Init() executed successfully.
+[Progress Report] Starting app_main...
+[Progress Report] RemoteSensing_init() done.
+[Progress Report] RetrieveData_init() done.
+[Progress Report] AutoMonitor_readcfg() done.
+- gateway node initialized at 2000-01-01 07:43:19
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Manually-triggered sensing
+- '4'  Event-triggered sensing
+- '7'  Retrieve sensor data
+- '6'  Check sensor status
+- '7'  Reset sensors
+- '8'  Change configuration
+- 'a'  Xnode Playground
+- Xnode> 1
+
+- waking up 3 nodes on radio channel 25:
+- 005, 006, 007
+- wait 1 minute(s)...
+- woke up 3 nodes.
+- configuration parameters:
+- sampling time: 60s; sampling rate: 100Hz; sensor channels: 8; sensor nodes: 3
+
+- starting time sync round 1; wait 5 seconds...
+- sending parameters to 3 sensor nodes; wait 3 seconds...
+- sensing parameters sent to all nodes.
+- sensing started; wait 65 seconds...
+- starting time sync round 2; wait 5 seconds...
+- sensing finished, processing and storing data; wait 14 seconds...
+
+- requesting data from 3 sensor nodes...
+
+- requesting data from node 005...
+- data from node 005 is missing (timeout)
+
+- requesting data from node 006...
+- data from node 006 is missing (timeout)
+
+- requesting data from node 007...
+- data from node 007 is missing (timeout)
+
+- resetting 3 sensor nodes; wait 3 seconds...
+- reset command has been sent to all nodes.
+ERROR: all nodes unresponsive; RemoteSensing failed!
+- resetting...
+ERROR: RemoteSensing start failed; resetting...
+app_main() (gateway) done.
+
+
+
+-------------------------------------------------------------------------------
+- Embedor Technologies Xnode Smart Sensor Ver. 2.6
+- * MCU: LPC4357
+- * Core: ARM Cortex-M4F
+- * OS: FreeRTOS 10.2.1
+- * Sensor: 24-bit acceleration
+- * Core freq: 120 MHz
+- * >>> Xnode PlayGround <<<
+-------------------------------------------------------------------------------
+
+[Progress Report] SDCard_Init() executed successfully.
+[Progress Report] Util_Init() executed successfully.
+[Progress Report] Trig_Init() executed successfully.
+[Progress Report] XnodeConfig_Init() executed successfully.
+[Progress Report] Starting app_main...
+[Progress Report] RemoteSensing_init() done.
+[Progress Report] RetrieveData_init() done.
+[Progress Report] AutoMonitor_readcfg() done.
+- gateway node initialized at 2000-01-01 07:46:16
+
+- Choose application to run:
+- '1'  Remote sensing
+- '2'  Autonomous monitoring
+- '3'  Manually-triggered sensing
+- '4'  Event-triggered sensing
+- '7'  Retrieve sensor data
+- '6'  Check sensor status
+- '7'  Reset sensors
+- '8'  Change configuration
+- 'a'  Xnode Playground
+- Xnode> 
