@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\MQTTPacketClient.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe qc CMakeFiles\MQTTPacketClient.dir/objects.a @CMakeFiles\MQTTPacketClient.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -shared -o libMQTTPacketClient.dll -Wl,--out-implib,libMQTTPacketClient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\MQTTPacketClient.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\MQTTPacketClient.dir\linkLibs.rsp

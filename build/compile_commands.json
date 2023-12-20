@@ -1,0 +1,152 @@
+[
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTConnectClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTConnectClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTConnectClient.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTConnectClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTConnectServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTConnectServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTConnectServer.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTConnectServer.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTDeserializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTDeserializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTDeserializePublish.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTDeserializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTFormat.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTFormat.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTFormat.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTFormat.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTPacket.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTPacket.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTPacket.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTPacket.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTSerializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSerializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSerializePublish.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTSerializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTSubscribeClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSubscribeClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSubscribeClient.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTSubscribeClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTSubscribeServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSubscribeServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSubscribeServer.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTSubscribeServer.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTUnsubscribeClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTUnsubscribeClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTUnsubscribeClient.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTUnsubscribeClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\MQTTUnsubscribeServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTUnsubscribeServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTUnsubscribeServer.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/MQTTUnsubscribeServer.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTT_CLIENT -DMQTT_SERVER -Dpaho_embed_mqtt3c_EXPORTS  -g -o CMakeFiles\\paho-embed-mqtt3c.dir\\test1.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\test1.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/test1.c",
+  "output": "CMakeFiles/paho-embed-mqtt3c.dir/test1.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTFormat.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTFormat.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTFormat.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTFormat.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTPacket.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTPacket.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTPacket.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTPacket.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTSerializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSerializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSerializePublish.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTSerializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTDeserializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTDeserializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTDeserializePublish.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTDeserializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTConnectClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTConnectClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTConnectClient.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTConnectClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTSubscribeClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSubscribeClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSubscribeClient.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTSubscribeClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketClient_EXPORTS -DMQTT_CLIENT  -g -o CMakeFiles\\MQTTPacketClient.dir\\MQTTUnsubscribeClient.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTUnsubscribeClient.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTUnsubscribeClient.c",
+  "output": "CMakeFiles/MQTTPacketClient.dir/MQTTUnsubscribeClient.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTFormat.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTFormat.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTFormat.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTFormat.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTPacket.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTPacket.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTPacket.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTPacket.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTSerializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSerializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSerializePublish.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTSerializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTDeserializePublish.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTDeserializePublish.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTDeserializePublish.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTDeserializePublish.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTConnectServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTConnectServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTConnectServer.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTConnectServer.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTSubscribeServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTSubscribeServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTSubscribeServer.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTSubscribeServer.obj"
+},
+{
+  "directory": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe -DMQTTPacketServer_EXPORTS -DMQTT_SERVER  -g -o CMakeFiles\\MQTTPacketServer.dir\\MQTTUnsubscribeServer.obj -c \"E:\\Xnode_Dev\\Xnode_Development\\XN_LTTest\\Xnode-4G - Multi Nodes\\lib\\paho\\MQTTUnsubscribeServer.c\"",
+  "file": "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho/MQTTUnsubscribeServer.c",
+  "output": "CMakeFiles/MQTTPacketServer.dir/MQTTUnsubscribeServer.obj"
+}
+]

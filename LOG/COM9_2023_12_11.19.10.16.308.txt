@@ -1,0 +1,12 @@
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right

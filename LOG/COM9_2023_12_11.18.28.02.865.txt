@@ -1,0 +1,14 @@
+Trying to connect to: CSW@CEE
+Connected to the network, your IP: 192.168.31.17
+Attempting to connect to the MQTT broker: 8.214.19.225
+You're connected to the MQTT broker!
+
+Subscribing to topic: ArduinoR4
+
+Waiting for messages on topic: ArduinoR4
+
+Received a message with topic 'ArduinoR4'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "msg": "capybara"
+}

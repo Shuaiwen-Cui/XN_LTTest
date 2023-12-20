@@ -1,0 +1,4 @@
+Attempting to connect to WPA SSID: CSW@CEE
+You're connected to the network
+
+Attempting to connect to the MQTT broker.MQTT connection failed! Error code = -2

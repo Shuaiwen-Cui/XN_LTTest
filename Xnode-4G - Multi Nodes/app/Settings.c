@@ -915,12 +915,23 @@ void FRA_menu(void)
 		case '2': // Synchronize RTC // TUFIX: Make this same as status asking: Current clock, voltage, current, #of files, %of file not sent, %of files in sd card, TEMPERATURE in ADC
 			write_istherefiletosend(1); // Twice a day, faking data set to be sent to make sure anything stuck is sent out, important
 			CheckBatteryVoltage();
+			// csw <
+            lpc_printf("SyncClock_init\r\n");
+			// csw >
 			if (SyncClock_init() != SUCCESS) {
 				lpc_printf("ERROR: RemoteSensing init failed; resetting...\r\n");
 			}
+			// csw <
+			lpc_printf("SyncClock_start\r\n");
+			// csw >
 			if (SyncClock_start(true) != SUCCESS) {; // TUFIXDONE: same as format above (== success) looks better. Fix: Use status instead of int for return of SyncClock_start
 				lpc_printf("ERROR: failed to read voltage\r\n");
 			}
+
+			// csw <
+			lpc_printf("Synchronize RTC finished.\r\n");
+			// csw >
+
 			break;
 		case '3': // Collect data from sensors & Upload
 			count = read_isFTP();	 

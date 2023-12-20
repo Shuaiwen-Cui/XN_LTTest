@@ -1,0 +1,217 @@
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 22 bytes:
+Message to my Arduino: {
+  "action": "left"
+}
+action: left
+Received a message with topic 'car/action'
+Message length: 22 bytes:
+Message to my Arduino: {
+  "action": "left"
+}
+action: left
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 25 bytes:
+Message to my Arduino: {
+  "action": "forward"
+}
+action: forward
+forward drive
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 26 bytes:
+Message to my Arduino: {
+  "action": "backward"
+}
+action: backward
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 23 bytes:
+Message to my Arduino: {
+  "action": "right"
+}
+action: right
+Received a message with topic 'car/action'
+Message length: 22 bytes:
+Message to my Arduino: {
+  "action": "left"
+}
+action: left
+Received a message with topic 'car/action'
+Message length: 22 bytes:
+Message to my Arduino: {
+  "action": "left"
+}
+action: left

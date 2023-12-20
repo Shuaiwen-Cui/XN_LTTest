@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\paho-embed-mqtt3c.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe qc CMakeFiles\paho-embed-mqtt3c.dir/objects.a @CMakeFiles\paho-embed-mqtt3c.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -shared -o libpaho-embed-mqtt3c.dll -Wl,--out-implib,libpaho-embed-mqtt3c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\paho-embed-mqtt3c.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\paho-embed-mqtt3c.dir\linkLibs.rsp

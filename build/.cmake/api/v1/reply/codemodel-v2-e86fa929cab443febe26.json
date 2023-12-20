@@ -1,0 +1,75 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f5250e0a0f23cb111f5.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MQTTPacketClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MQTTPacketClient-Debug-e915c0af0268128079f5.json",
+					"name" : "MQTTPacketClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MQTTPacketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MQTTPacketServer-Debug-e935664f92728a7e7b66.json",
+					"name" : "MQTTPacketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "paho-embed-mqtt3c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-paho-embed-mqtt3c-Debug-6b269fe94abec2329af9.json",
+					"name" : "paho-embed-mqtt3c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Xnode_Dev/Xnode_Development/XN_LTTest/build",
+		"source" : "E:/Xnode_Dev/Xnode_Development/XN_LTTest/Xnode-4G - Multi Nodes/lib/paho"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -4,7 +4,7 @@
 #include "GenericComm.h"
 #include "lpc43xx_timer.h"
 
-#define _DEBUG_               0 // 0 for non debugging mode
+#define _DEBUG_               1 // 0 for non debugging mode
 
 #if _DEBUG_
 #define PRINTF(...)           lpc_printf(__VA_ARGS__)
